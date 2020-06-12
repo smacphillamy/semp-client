@@ -1,5 +1,7 @@
 module github.com/ExalDraen/semp-client
 
+go 1.14
+
 require (
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8 // indirect
 	github.com/go-openapi/analysis v0.18.0 // indirect
