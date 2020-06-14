@@ -1,4 +1,4 @@
-module github.com/ExalDraen/semp-client
+module github.com/smacphillamy/semp-client
 
 go 1.14
 
