@@ -11,12 +11,12 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/ExalDraen/semp-client/client/about"
-	"github.com/ExalDraen/semp-client/client/dmr_cluster"
-	"github.com/ExalDraen/semp-client/client/msg_vpn"
-	"github.com/ExalDraen/semp-client/client/operations"
-	"github.com/ExalDraen/semp-client/client/system_information"
-	"github.com/ExalDraen/semp-client/client/username"
+	"github.com/smacphillamy/semp-client/client/about"
+	"github.com/smacphillamy/semp-client/client/dmr_cluster"
+	"github.com/smacphillamy/semp-client/client/msg_vpn"
+	"github.com/smacphillamy/semp-client/client/operations"
+	"github.com/smacphillamy/semp-client/client/system_information"
+	"github.com/smacphillamy/semp-client/client/username"
 )
 
 // Default s e m p solace element management protocol HTTP client.

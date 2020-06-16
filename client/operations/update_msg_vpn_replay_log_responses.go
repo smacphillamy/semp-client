@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/ExalDraen/semp-client/models"
+	models "github.com/smacphillamy/semp-client/models"
 )
 
 // UpdateMsgVpnReplayLogReader is a Reader for the UpdateMsgVpnReplayLog structure.

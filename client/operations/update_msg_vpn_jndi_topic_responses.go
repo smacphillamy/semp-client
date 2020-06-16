@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/ExalDraen/semp-client/models"
+	models "github.com/smacphillamy/semp-client/models"
 )
 
 // UpdateMsgVpnJndiTopicReader is a Reader for the UpdateMsgVpnJndiTopic structure.
